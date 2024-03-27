@@ -1,0 +1,43 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: Tomato Grotesk;
+}
+
+body{
+	
+}
+
+
+.nav-link{
+	padding: 8px 22px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: black;
+}
+
+.nav-link:hover{
+	border-bottom: 2px solid #d85027;
+}
+
+
+#navbtn:hover{
+	background-color: #f9a12b;
+	transition: 1s;
+
+}
+
+
+.carousel-item {
+  height: 790px;
+  background: no-repeat center center scroll;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
